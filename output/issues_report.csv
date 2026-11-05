@@ -1,0 +1,14 @@
+row,sku,level,issue
+4,BRD-003,WARNING,Missing barcode
+5,CAN-004,WARNING,Compare-at price is not above the selling price
+6,BLK-005,ERROR,Image link must start with https://
+7,BWL-006,ERROR,Barcode is not a valid EAN-13
+8,MUG-001,ERROR,Duplicate SKU (first seen on row 2)
+9,LMP-008,ERROR,Missing title
+10,LMP-009,ERROR,Price must be above zero
+11,JAR-010,ERROR,Duplicate barcode (first seen on row 2)
+12,CUS-011,WARNING,Title is longer than 70 characters
+12,CUS-011,WARNING,Missing image
+13,CAN-012,ERROR,Stock cannot be negative
+14,POT-013,ERROR,Price missing or unreadable
+15,TWN-014,ERROR,Stock missing or not a whole number
