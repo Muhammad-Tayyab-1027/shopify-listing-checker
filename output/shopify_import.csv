@@ -1,0 +1,7 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Variant SKU,Variant Inventory Qty,Variant Price,Variant Compare At Price,Variant Barcode,Image Src
+ceramic-mug-350ml,Ceramic Mug 350ml,Hand-glazed ceramic mug.,Liffey Home,Kitchen,kitchen,TRUE,MUG-001,40,12.50,15.00,5901234123457,https://example.ie/img/mug.jpg
+linen-tea-towel,Linen Tea Towel,Soft linen tea towel.,Liffey Home,Kitchen,kitchen,TRUE,TOW-002,85,7.95,,4006381333931,https://example.ie/img/towel.jpg
+oak-serving-board,Oak Serving Board,Solid oak board.,Wicklow Wood,Kitchen,kitchen,TRUE,BRD-003,12,34.00,,,https://example.ie/img/board.jpg
+scented-candle-turf-fire,Scented Candle Turf Fire,Slow-burning soy candle.,Aran Candle Co,Home,home,TRUE,CAN-004,30,18.00,16.00,5000112637922,https://example.ie/img/candle.jpg
+cotton-cushion-cover-sage-green-with-hidden-zip-and-hand-stitched-piping-detail,Cotton Cushion Cover Sage Green with Hidden Zip and Hand-Stitched Piping Detail,Cotton cushion cover.,Liffey Home,Home,home,TRUE,CUS-011,22,14.00,,4902030187507,
+beeswax-wood-polish,Beeswax Wood Polish,Natural beeswax polish.,Wicklow Wood,Home,home,TRUE,POL-015,33,8.75,,5449000000996,https://example.ie/img/polish.jpg

@@ -1,0 +1,16 @@
+title,sku,barcode,price,compare_at_price,stock,image_url,vendor,category,description
+Ceramic Mug 350ml,MUG-001,5901234123457,12.50,15.00,40,https://example.ie/img/mug.jpg,Liffey Home,Kitchen,Hand-glazed ceramic mug.
+  Linen  Tea Towel ,tow-002,4006381333931,"€7,95",,85,https://example.ie/img/towel.jpg,Liffey Home,Kitchen,Soft linen tea towel.
+Oak Serving Board,BRD-003,,EUR 34.00,,12,https://example.ie/img/board.jpg,Wicklow Wood,Kitchen,Solid oak board.
+Scented Candle Turf Fire,CAN-004,5000112637922,18.00,16.00,30,https://example.ie/img/candle.jpg,Aran Candle Co,Home,Slow-burning soy candle.
+Wool Throw Blanket,BLK-005,9780201379624,"1,299.00",,3,http://example.ie/img/throw.jpg,Donegal Weave,Home,Pure new wool throw.
+Stoneware Bowl,BWL-006,5901234123458,9.50,,25,https://example.ie/img/bowl.jpg,Liffey Home,Kitchen,Wide stoneware bowl.
+Ceramic Mug 350ml Green,MUG-001,5012345678900,12.50,,18,https://example.ie/img/mug-green.jpg,Liffey Home,Kitchen,Green glazed mug.
+,LMP-008,8711253001202,45.00,,6,https://example.ie/img/lamp.jpg,Bright Co,Lighting,Bedside lamp.
+Brass Table Lamp,LMP-009,8712345678906,0,,4,https://example.ie/img/brass.jpg,Bright Co,Lighting,Brushed brass lamp.
+Glass Storage Jar 1L,JAR-010,5901234123457,6.00,,60,https://example.ie/img/jar.jpg,Liffey Home,Kitchen,Airtight glass jar.
+Cotton Cushion Cover Sage Green with Hidden Zip and Hand-Stitched Piping Detail,CUS-011,4902030187507,14.00,,22,,Liffey Home,Home,Cotton cushion cover.
+Copper Watering Can,CAN-012,7501031311309,29.00,,-2,https://example.ie/img/can.jpg,Greenway,Garden,Long-spout watering can.
+Terracotta Plant Pot 20cm,POT-013,8901030875021,soon,,14,https://example.ie/img/pot.jpg,Greenway,Garden,Classic terracotta pot.
+Garden Twine 100m,TWN-014,3017620422003,4.50,,many,https://example.ie/img/twine.jpg,Greenway,Garden,Natural jute twine.
+Beeswax Wood Polish,POL-015,5449000000996,8.75,,33,https://example.ie/img/polish.jpg,Wicklow Wood,Home,Natural beeswax polish.
